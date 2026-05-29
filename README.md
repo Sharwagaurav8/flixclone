@@ -4,7 +4,7 @@ A modern Netflix-inspired frontend clone built using HTML and CSS.
 
 ## 🚀 Live Demo
 
-https://gaurav-flixclone.netlify.app
+https://flixclone-mu.vercel.app/
 
 ## 📂 GitHub Repository
 
